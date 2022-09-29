@@ -1,0 +1,2 @@
+# Valorant-Shop-Item-Displayer
+The idea for this product is to give the user who uses it the currently shop items that are available on their personal shop. This is a personal project to challenge myself and improve at the use of different API's for programs I will use. The idea is to set specific items to be recognized and to inform the user if any "favorite" weapon is available and the shop for the to purchase.
